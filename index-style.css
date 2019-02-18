@@ -54,6 +54,31 @@
 }
 
 .content {
-	width: 60%;
-	margin-left: 20%;
+	width: 80%;
+	margin-left: 10%;
 }
+
+
+.title {
+	font-size: 20px;
+	margin: 25px 0 10px 0;
+	font-weight: bold;
+}
+
+.sub-title {
+	margin: 6px 0 0 0;
+	font-size: 13px;
+	color: #777777;
+	width: 100%;
+}
+
+.first-body-text {
+	margin: 20px 50px 20px 0;
+}
+
+.body-text {
+	margin: 20px 150px 20px 0;
+	text-indent: 2em;
+}
+
+
