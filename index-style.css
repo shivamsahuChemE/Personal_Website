@@ -16,6 +16,8 @@
 	background: purple;
 	position: fixed;
 	top: 0; 
+	padding: 0px;
+	margin: 0px;
 }
 .nav-bar > .element {
 	width: 100%;
