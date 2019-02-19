@@ -7,7 +7,7 @@
 }
 
 
-/*---------------------- nav -------------------*/
+/*---------------------- Begin Nav bar -------------------*/
 
 .nav-bar {
 	width: 15%;
@@ -33,8 +33,12 @@
 		text-decoration: underline;
 }	
 
+/*---------------------- End Nav bar -------------------*/
 
-/*---------------------- main -------------------*/
+
+
+
+/*---------------------- Begin Main -------------------*/
 
 .main {
 	width: 80%;
@@ -83,4 +87,32 @@
 	text-indent: 2em;
 }
 
+/*---------------------- End Main -------------------*/
+
+
+/*---------------------- Begin Footer -------------------*/
+
+#footer{
+height:200px;
+background:#000 url('images/bg.jpg') top center repeat-x;
+text-align: center;
+padding-top: 8px;
+clear: both;
+float: none;
+margin-left: -10px;
+margin-right: -10px;
+margin-bottom: -20px;
+}
+
+#footer a, a:link {
+color:#999999;
+text-decoration: none;
+}
+
+#footer a:hover {
+color:#A5CE77;
+text-decoration: none;
+}
+
+/*---------------------- End Footer -------------------*/
 
