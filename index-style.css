@@ -92,27 +92,53 @@
 
 /*---------------------- Begin Footer -------------------*/
 
-#footer{
-height:200px;
-background:#000 url('Images/bg.jpg') top center repeat-x;
-text-align: center;
-padding-top: 8px;
-clear: both;
-float: none;
-margin-left: -10px;
-margin-right: -10px;
-margin-bottom: -20px;
+.footer {
+	background: var(--purple);
+	height: 32px;
 }
 
-#footer a, a:link {
-color:#999999;
-text-decoration: none;
+.footer-comp:first-child {
+	margin-left: 15%;
+	float: left;
+	width: 100px;
+	height: 30px;
+	transition: all 0.25s;
 }
 
-#footer a:hover {
-color:#A5CE77;
-text-decoration: none;
+.footer-comp {
+	float: left;
+	width: 120px;
+	height: 30px;
+	transition: all 0.25s;
 }
+
+.footer-img {
+	height: 65%;
+	margin: 5%;
+	margin-right: 10px;
+	margin-left: 10px;
+	border: none;
+	float: left;
+}
+
+.footer-img-big {
+	height: 60%;
+	margin: 6%;
+	margin-right: 10px;
+	margin-left: 10px;
+	border: none;
+	float: left;
+}
+
+.footer-text {
+	font-family: Arial;
+	font-size: 14px;
+	line-height: 30px;
+	text-align: center;	
+	color: white;
+	float: left;
+}
+
 
 /*---------------------- End Footer -------------------*/
 
