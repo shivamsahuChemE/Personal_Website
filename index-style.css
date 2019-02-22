@@ -79,11 +79,12 @@
 	font-weight: bold;
 	color: #545454;
 	float: left;
+	margin: 0px 0px 0px 0px;
 }
 
 .content {
 	width: 80%;
-	margin-left: 10%;
+	margin-left: 0%;
 	display: inline-block;
 }
 
@@ -102,7 +103,7 @@
 }
 
 .para-explain-text {
-	margin: 20px 50px 20px 0;
+	margin: 0px 0px 0px 0px;
 	display: inline-block;
 }
 
