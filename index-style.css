@@ -23,6 +23,7 @@
 .nav-bar > .element {
 	width: 100%;
 	line-height: 50px;
+	padding: 10px 0 10px 0;
 	text-align: center;
 	color: white;
 	display: inline-block;
@@ -31,9 +32,23 @@
 	text-decoration: none;
 }
 .nav-bar > .element:hover { 
-		text-decoration: underline;
-		color: blue;
+	text-decoration: underline;
+	color: blue;
+	width: calc(100% + 10px);
 }	
+.nav-bar .tab {
+	width: 100%;
+	padding: 10px 0 10px 0;
+	text-align: center;
+	color: #f3f3f3;
+	font-family: 'Arial';
+	font-size: 13px;
+	line-height: 27px;
+	background: var(--purple);
+}
+.nav-bar .tab:hover {
+	width: calc(100% + 10px);
+}
 
 /*---------------------- End Nav bar -------------------*/
 
