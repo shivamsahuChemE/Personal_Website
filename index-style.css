@@ -105,6 +105,8 @@
 .para-explain-text {
 	margin: 0px 0px 0px 0px;
 	display: inline-block;
+	width: 600px;
+	height: 300px;
 }
 
 .body-text {
