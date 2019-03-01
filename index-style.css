@@ -147,7 +147,7 @@
 	height: 65%;
 	margin: 5%;
 	margin-right: 10px;
-	margin-left: 10px;
+	margin-left: 0px;
 	border: none;
 	float: left;
 }
@@ -168,7 +168,7 @@
 	text-align: center;	
 	color: white;
 	float: right;
-	margin: 0px 10px 0px 0px;
+	margin: 0px 2px 0px 0px;
 }
 
 
