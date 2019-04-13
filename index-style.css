@@ -83,6 +83,8 @@
 	width: 80%;
 	margin-left: 0%;
 	display: inline-block;
+	font-family: Arial;
+	font-size: 22px;	
 }
 
 
@@ -110,13 +112,6 @@
 	text-indent: 2em;
 }
 
-p {
-	font-family: Arial;
-	font-size: 14px;
-	line-height: 20px;
-	margin: 0 0 0 0;
-	color: #424242;
-}
 /*---------------------- End Main -------------------*/
 
 
