@@ -8,30 +8,6 @@
 
 
 
-body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-sarif;
-    font-size: 100%;
-    line-height: 1.7em;
-    color: #000000;
-}
-
-#container {
-    width: 70%;
-    margin: 10px auto;
-}
-
-#top_row {
-    border-bottom: 1px dotted #cccccc;
-    padding: .5em .5em 3em .5em;
-}
-
-#content {
-    float: left;
-    width: 70%;
-    margin: 0;
-    padding: 1em;
-    border-right: 1px dotted #ccc;
-}
 /*---------------------- Begin Nav bar -------------------*/
 
 .nav-bar {
