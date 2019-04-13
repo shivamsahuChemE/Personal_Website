@@ -229,34 +229,3 @@ p {
 	overflow: hidden;
 }
 
-.content {
-	margin: 15px 15px 90px 15px;
-	padding: 10px;
-	color: #666666;
-	font-family: Verdana, Arial, sans-serif;
-	font-size: x-small;
-	background-color: #eff2f9;
-	border-right: 1px solid #adb2cc;
-position: relative;}
-
-.content p {
-	color: #333;
-	font-family: Verdana, Arial, sans-serif;
-	font-size: x-small;
-	font-weight: normal;
-	line-height: 150%;
-	text-align: left;
-	margin-bottom: 10px;
-	padding-left: 15px;
-	}
-
-
-.content h3 {
-	color: #333;
-	font-family: Verdana, Arial, sans-serif;
-	font-size: 140%;
-	text-align: left;
-	font-weight: bold;
-	margin-bottom: 10px;
-	padding-left: 5px;
-}
