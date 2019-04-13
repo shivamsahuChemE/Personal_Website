@@ -84,8 +84,6 @@
 	width: 80%;
 	margin-left: 0%;
 	display: inline-block;
-	font-family: Arial;
-	font-size: 22px;	
 }
 
 
@@ -112,6 +110,8 @@
 	margin: 20px 150px 20px 0;
 	text-indent: 2em;
 }
+
+
 
 /*---------------------- End Main -------------------*/
 
