@@ -188,28 +188,6 @@ p {
 	height: 100px;
 }
 
-body{
-
-	margin: 0px 0px 0px 0px;
-	background-color: #100;
-	text-align: center;
-}
-
-a {
-	text-decoration: underline;
-	color:#7da2bc;
-}
-
-a:hover {
-	color: #aea5c7;
-}
-
-h1, h2, h3 {
-	margin: 0px;
-	padding: 0px;
-	font-weight: normal;
-}
-
 #container {
 	line-height: 140%;
 	margin-right: auto;
