@@ -32,7 +32,15 @@
 	font-family: Arial;
 	text-decoration: none;
 }
-	
+.nav-bar > .element:hover {
+	width: calc(100% + 10px);
+	background: #00CED1;
+	transition: all 0.25s linear 0s;
+    transition-property: all;
+    transition-duration: 0.25s;
+    transition-timing-function: linear;
+    transition-delay: 0s;	
+}	
 .nav-bar .tab {
 	width: 100%;
 	padding: 10px 0 10px 0;
