@@ -139,7 +139,7 @@
 .footer-comp:first-child {
 	margin-left: 15%;
 	float: left;
-	width: 100px;
+	width: 200px;
 	height: 30px;
 	transition: all 0.25s;
 }
